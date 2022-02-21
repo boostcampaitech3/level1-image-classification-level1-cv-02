@@ -1,0 +1,10 @@
+input
+.cache
+.ipython
+.jupyter
+.local
+.nv
+.vscode-server
+.bash_history
+.profile
+.wget-hsts
