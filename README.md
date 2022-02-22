@@ -1,4 +1,4 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87af9332-1ddb-4e83-977a-d9f412b2dde6/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/82289435/155078196-a7fc6036-283a-4319-a404-c7e16906c4d8.png)
 
 카메라로 비춰진 사람 얼굴 이미지 만으로 이 사람이 마스크를 쓰고 있는지, 쓰지 않았는지, 정확히 쓴 것이 맞는지 자동으로 가려낼 수 있는 시스템
 
@@ -14,4 +14,4 @@
 
 - 데이터 분류(18개 클래스)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35dc65f1-abb3-48f5-9cfd-6f09bc8f2f21/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/82289435/155078245-c7cc8e8f-a835-4d35-adfb-e2233fa03d86.png)
