@@ -15,9 +15,9 @@
             - batch-size - 128
             - image-size - 224, 224
        - 나이
-        - lr - 0.00007
-        - epoch - 50
-        - 나머지 
+            - lr - 0.00007
+            - epoch - 50
+            - 나머지 
 
 
 이름|f1|acurracy|날짜|
